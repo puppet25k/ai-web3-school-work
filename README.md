@@ -16,7 +16,7 @@
 - [x] 安装 Hermes Agent
   - [x] 配置 DeepSeek API
   - [x] 连接 Ollama 本地模型（qwen3:8b）
-- [ ] 记录 agent 协助学习日志
+- [x] 记录 agent 协助学习日志
 
 ### 任务 2：GitHub Repo
 - [x] 创建课程专用 repo
