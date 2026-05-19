@@ -11,10 +11,12 @@ AI x Web3 School
 # 2026-05-19
 <!-- DAILY_CHECKIN_2026-05-19_START -->
 \# 2026.5.19
+
 \## 目前的状态
 1\. 成功将 Hermes Agent 和 OpenClaw 从本地 WSL 迁移到云服务器，实现远程访问
 2\. 完成了 Hermes 与飞书的连接配置
 3\. 配置了 AI x Web3 School 共学营日历的每日简报和课前提醒
+
 \## 今日内容
 1\. 将 Hermes Agent 从 WSL 迁移到腾讯云 Ubuntu 24.04 服务器
 2\. 安装并配置 mihomo 代理，使用精靈學院节点解决 Google Calendar 访问问题
@@ -22,6 +24,7 @@ AI x Web3 School
 4\. 完成飞书日历订阅与课前提醒定时任务配置（每日8:00简报 + 每30分钟课前提醒）
 5\. 清理了 config.yaml 中残留的 Ollama 本地配置
 6\. 增补今日学习笔记并初始化 Git 仓库
+
 \## 下一步工作：
 1\. 继续学习 AI x Web3 School 指导文档内容
 2\. 深入学习 AI 和 Web3 基础知识
@@ -31,16 +34,19 @@ AI x Web3 School
 # 2026-05-20
 <!-- DAILY_CHECKIN_2026-05-20_START -->
 \# 2026.5.20
+
 \## 目前的状态
 1\. 成功将 Hermes Agent 和 OpenClaw 部署在云服务器并稳定运行
 2\. 已完成飞书连接和日历定时提醒配置
 3\. 正在参与 AI x Web3 School 共学营，跟进课程内容
+
 \## 今日内容
 1\. 参加了 "AI Agent 入门 — Hermes 从 0 到 1" 分享会（Draken/Rico）
 2\. 学习了 AI 工具生态五大阵营：聊天型AI、AI编程助手、终端型AI、模型提供商、Agent框架
 3\. 理解了聊天机器人 vs AI Agent 的本质区别（回答 vs 做事）
 4\. 掌握了 AI Agent 核心运行机制：理解目标 → 调用工具 → 检查结果 → 修正执行
 5\. 整理了分享会笔记并提交至 GitHub
+
 \## 下一步工作：
 1\. 阅读 AI x Web3 School Handbook 系统学习
 2\. 深入学习 AI Agent 实际应用开发
