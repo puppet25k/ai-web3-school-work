@@ -60,29 +60,12 @@ AI x Web3 School
 3. 理解了聊天机器人 vs AI Agent 的本质区别（回答 vs 做事）
 4. 掌握了 AI Agent 核心运行机制：理解目标 → 调用工具 → 检查结果 → 修正执行
 5. 整理了分享会笔记并提交至 GitHub
-
-### 下一步工作
-
-1. 阅读 AI x Web3 School Handbook 系统学习
-2. 深入学习 AI Agent 实际应用开发
-3. 进一步探索 Hermes Agent 的高级功能
-4. 完成飞书日历同步（需开放平台加 calendar 权限）
-5. 了解 MCP、RAG 等进阶概念
-
-<!-- DAILY_CHECKIN_2026-05-20_END -->
-
-# 2026-05-20 PM
-
-<!-- DAILY_CHECKIN_2026-05-20-PM_START -->
-
-### 今日内容（续）
-
-1. 参加了 "Web3 运行原理" 分享会（Bruce / @brucexu_eth）
-2. 学习了交易到出块的完整链路：Wallet → RPC → Mempool → Builder → Validator → Block
-3. 理解了 PoW vs PoS 的区别，以及 Ethereum PoS 的 Finality 机制（约 12.8 分钟）
-4. 掌握了智能合约的本质（链上代码 + EVM 执行）和代理合约升级模式
-5. 了解了以太坊升级流程：EIP 讨论 → 多客户端实现 → 测试网 → Hard Fork
-6. 理解了 Web3 密码学 + 经济学 + 社会学的三角框架
+6. 参加了 "Web3 运行原理" 分享会（Bruce / @brucexu_eth）
+7. 学习了交易到出块的完整链路：Wallet → RPC → Mempool → Builder → Validator → Block
+8. 理解了 PoW vs PoS 的区别，以及 Ethereum PoS 的 Finality 机制（约 12.8 分钟）
+9. 掌握了智能合约的本质（链上代码 + EVM 执行）和代理合约升级模式
+10. 了解了以太坊升级流程：EIP 讨论 → 多客户端实现 → 测试网 → Hard Fork
+11. 理解了 Web3 密码学 + 经济学 + 社会学的三角框架
 
 ### 随堂笔记
 
@@ -90,11 +73,15 @@ AI x Web3 School
 
 ### 下一步工作
 
-1. 继续学习 Web3 基础知识，巩固区块链原理理解
-2. 学习如何进行资产自托管和管理私钥
-3. 了解 Ethereum 生态的更多应用场景
-4. 参与后续共学营课程
+1. 继续学习 AI x Web3 School 指导文档内容
+2. 深入学习 AI 和 Web3 基础知识
+3. 学习如何进行资产自托管和管理私钥
+4. 完善 Hermes Agent 的自动化和工具配置
+5. 完成飞书日历同步（需开放平台加 calendar 权限）
+6. 了解 MCP、RAG 等进阶概念
+7. 了解 Ethereum 生态的更多应用场景
+8. 参与后续共学营课程
 
-<!-- DAILY_CHECKIN_2026-05-20-PM_END -->
+<!-- DAILY_CHECKIN_2026-05-20_END -->
 
 <!-- Content_END -->
