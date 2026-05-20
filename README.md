@@ -1,47 +1,39 @@
-# AI x Web3 School 共学营
+# AI × Web3 School — Personal Learning Repository
 
-> 学习周期：2026.05.18 → 2026.06.14
-> 主办：ETHPanda × LXDAO
+> 面向 builders 的开源学习计划  
+> Handbook: https://aiweb3.school/zh/handbook/  
+> Bootcamp: https://web3career.build/zh/programs/AI-Web3-School  
+> 周期: 2026.05 — 2026.06
 
-## 进度追踪
+**⚠️ 隐私提醒:** 本仓库是 public 的，不要提交私钥、API key、密码、未公开联系方式或他人个人数据。
 
-- [ ] Week 1 | AI 与 Web3 基础知识
-- [ ] Week 2 | TBD
-- [ ] Week 3 | TBD
-- [ ] Week 4 | TBD
+---
 
-## Week 1 任务清单
+## 目录说明
 
-### 任务 1：Learning Agent
-- [x] 安装 Hermes Agent
-  - [x] 配置 DeepSeek API
-  - [x] 连接 Ollama 本地模型（qwen3:8b）
-- [x] 记录 agent 协助学习日志
-
-### 任务 2：GitHub Repo
-- [x] 创建课程专用 repo
-- [x] 整理共学营首日笔记（完整版见 `notes/`）
-
-### 任务 3：交互式学习产物
-- [ ] 用 agent 生成一个交互式学习工具
-
-### 模块 B：Web3 实践
-- [ ] 创建测试钱包
-- [ ] 领取测试币 + 发送测试交易
-- [ ] 部署最小合约
-
-### 模块 C：交叉实验
-- [ ] 完成 AI → 链上执行的最小实验
-- [ ] 画出流程图
-
-## 目录结构
-
-```
+```text
 ai-web3-school-work/
-├── README.md          # 本文件
-├── notes/             # 学习笔记
-├── prompts/           # agent 提示词记录
-├── demos/             # 交互式学习产物
-├── logs/              # agent 协助日志
-└── resources.md       # 资源链接汇总
+├── README.md              # 本文件
+├── profile.md             # 学员画像
+├── learning-plan.md       # 学习计划
+├── notes/                 # 学习笔记（分享会 / 课程笔记）
+├── daily/                 # 每日打卡记录
+├── tasks/                 # 任务分解与追踪
+├── experiments/           # 动手实验 / 代码尝试
+├── handbook-feedback/     # Handbook 反馈（问题、卡点、建议）
+├── hackathon/             # 黑客松项目
+├── submissions/           # 课程作业 / 提交物
+└── templates/             # 模板文件
+    ├── daily-note.md
+    └── task-note.md
 ```
+
+## 快速链接
+
+| 资源 | 链接 |
+|------|------|
+| Handbook | https://aiweb3.school/zh/handbook/ |
+| WCB 课程页 | https://web3career.build/zh/programs/AI-Web3-School |
+| WCB Learning | https://web3career.build/zh/programs/AI-Web3-School#tab=learning |
+| Telegram 社群 | https://t.me/aiweb3school |
+| GitHub 官方 | https://github.com/lxdao-official/aiweb3school |
