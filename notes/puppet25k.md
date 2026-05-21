@@ -84,4 +84,28 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-20_END -->
 
+# 2026-05-21
+
+<!-- DAILY_CHECKIN_2026-05-21_START -->
+
+### 今日内容
+
+1. 参加了 "AI 下乡计划｜在 Web3 的应用" 分享会（ELON）
+2. 理解了 AI + Web3 的核心框架：AI 负责理解与决策，Web3 负责身份、支付、结算和审计
+3. 了解了去中心化 AI 基础设施生态：Bittensor (TAO)、Render Network、Akash
+4. 学习了 Coinbase AgentKit / MoonPay Agents / Privy Agentic Wallets 等 Agent 钱包方案
+5. 了解了 AI 链上分析工具（Nansen）—— 从"写查询"变成"提问题"
+6. 核心认知：AI + Web3 的价值不是给 AI 套 token，而是让软件主体进入可授权、可结算、可审计的经济系统
+
+### 随堂笔记
+
+> AI Agent 一旦开始做事，就会引出账户、支付、授权和追责问题
+> 每个项目都不是独立的，它在回答 agent 经济栈里的一个具体问题
+
+### 下一步工作
+
+1. 参加 5/22 的 Z.AI 分享和 Week 1 例会
+2. 整理本周学习内容
+3. 继续读 Handbook Web3 基础部分
+
 <!-- Content_END -->
