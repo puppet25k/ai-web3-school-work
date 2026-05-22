@@ -118,14 +118,17 @@ AI x Web3 School
 1. 参加了 Swen Chan 主持的 Co-Learning 指南会
 2. 了解了 WCB 平台使用方法和常见 FAQ
 3. 记录了 Hackathon 时间、赛道方向、组队方式等信息
-4. 学习了 tree tree 的优秀笔记结构化整理方法
-5. 学到了 Obsidian 本地知识库的最佳实践 — 每个人都该拥有自己的本地知识库
+4. 5/25 下一期 Co-Learning
 
-### 分享会
+### 分享会 — Week 1 例会
 
-1. **Z.AI — Open Agentic Economy**（Sophia）: ERC-8004/ERC-8183 Agent 经济协议标准
-2. **Agent Long-term Memory**（li9292 / Evermind）: 如何让 Agent 拥有持续上下文与长期一致性
-3. **Cobo Agentic Wallet**（Miratisu）: Agent 钱包权限、签名执行与安全边界
+1. **tree tree — 优秀笔记分享**: 索引 + 分层重构的结构化整理法，强调笔记的可检索性和可复用性
+2. **Z.AI Sophia — Open Agentic Economy**: ERC-8004/ERC-8183 Agent 经济协议标准，Agent 之间的经济协作、支付和结算
+3. **li9292 / Evermind — Agent Long-term Memory**: 如何让 Agent 拥有持续上下文与长期一致性，解决跨会话上下文连续性问题
+4. **Miratisu / Cobo — Agentic Wallet**: Agent 钱包的权限、签名执行与安全边界 — 如何让 AI Agent 在边界内安全操作链上资产
+5. **Obsidian 知识库**: 每个人都该拥有自己的本地知识库 — 把个人素材、方法论、经历喂给 AI，输出才是自己的
+6. 下周课程预告：5/25 Co-Learning + Week 2 AI×Web3 交叉实践
+7. Q&A: 讨论涉及 Agentic Commerce、AI Security、Privacy、Chainlink、DePIN、Tokenomics 等方向
 
 ### 随堂笔记
 
