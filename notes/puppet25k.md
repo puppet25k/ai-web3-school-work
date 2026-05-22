@@ -108,4 +108,10 @@ AI x Web3 School
 2. 整理本周学习内容
 3. 继续读 Handbook Web3 基础部分
 
+### 晚间：Co-Learning 指南
+
+1. 参加了 Swen Chan 主持的 Co-Learning 指南会
+2. 了解了 WCB 平台使用方法和常见 FAQ
+3. 记录了 Hackathon 时间、赛道方向、组队方式等信息
+
 <!-- Content_END -->
