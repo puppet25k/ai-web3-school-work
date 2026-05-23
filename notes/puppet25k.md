@@ -140,4 +140,30 @@ AI x Web3 School
 2. 整理 Week 1 学习总结
 3. 继续 Handbook Web3 基础学习
 
+# 2026-05-23
+
+<!-- DAILY_CHECKIN_2026-05-23_START -->
+
+### Open Agentic Economy
+
+1. 参加了 Sophia (Z.AI) 的 "Open Agentic Economy" 分享会
+2. 核心论点：以太坊是机器经济中人类为中心的分布式结算与协调中枢
+3. ERC-8004：Agent 可验证身份与信誉（三大注册表：Identity / Reputation / Validation）
+4. X402：机器对机器支付，复兴 HTTP 402 状态码
+5. Deep Funding：AI Agent 参与公共物品资金分配
+6. 以太坊设计原则 CROPS：审查抵制、开源、隐私、安全
+
+### 随堂笔记
+
+> The infrastructure that AI agents transact on will shape how this new economy works. Who can participate, how trust gets established, where value flows, whether the playing field is open.
+> That infrastructure is being designed right now. And the design choices being made will compound as AI activity scales.
+> Ethereum is the neutral layer where agents can settle value and make commitments.
+
+### 下一步工作
+
+1. 整理 Week 1 整体学习总结
+2. 继续 Handbook Web3 基础学习
+
+<!-- DAILY_CHECKIN_2026-05-23_END -->
+
 <!-- Content_END -->
