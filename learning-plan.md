@@ -19,7 +19,7 @@ created: 2026-05-20
 | 日期 | 主题 | 最小 | 推荐 | 挑战 |
 |------|------|------|------|------|
 | 5/20 | 网络（Network） | 读 Handbook → Network | + 搭 RPC 节点 | 分析 Etherscan 区块 |
-| 5/21 | 密码学（Cryptography） | 读 Handbook → Cryptography | + 用 ethers.js 签名 | 写签名/验签脚本 |
+| 5/21 | 密码学（Cryptography） | ✅ 已完成 | + 用 ethers.js 签名 | 写签名/验签脚本 |
 | 5/22 | 钱包（Wallet） | 读 Handbook → Wallet | + 创建测试钱包 | 做一笔测试交易 |
 | 5/23 | 智能合约（Smart Contract） | 读 Handbook → Smart Contract | + 用 Remix 部署 | 写一个简单合约 |
 | 5/24 | Account Abstraction | 读 Handbook → AA | + 对比 EOA vs CA | + 了解 ERC-4337 |

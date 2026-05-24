@@ -152,6 +152,9 @@ AI x Web3 School
 4. X402：机器对机器支付，复兴 HTTP 402 状态码
 5. Deep Funding：AI Agent 参与公共物品资金分配
 6. 以太坊设计原则 CROPS：审查抵制、开源、隐私、安全
+7. 学习了 Handbook「密码学（Cryptography）」
+8. 理解了哈希、公钥/私钥、签名、Merkle Tree 等核心概念
+9. 建立了密码学的产品直觉：私钥控制资产，签名表达授权，哈希固定数据
 
 ### 随堂笔记
 
