@@ -15,13 +15,6 @@ AI x Web3 School
 
 <!-- Content_START -->
 
-# 2026-05-25
-
-### 今日内容
-
-1. Railgun & Kohaku 隐私系统详解（0xMalingshu 分享）— UTXO 模型、ZK 电路、PPOI 防洗钱机制、Broadcaster + Waku 网络隐私
-2. Agent Memory Deck 分享 — Agent 记忆系统的架构设计，Product View vs Engineering View、三层架构（Context/Prompt/Harness）、时间×内容双轴分类、记忆从便利性到基础设施的演变
-
 # 2026-05-19
 
 <!-- DAILY_CHECKIN_2026-05-19_START -->
@@ -249,6 +242,17 @@ AI x Web3 School
 5. 掌握了 **PPOI（清白证明）** — ZK 证明资金来源干净，1 小时观察期 + 证明随币流动
 6. 了解了 RAIL 治理代币的质押收益和治理流程
 7. 理解了 Railgun vs Tornado Cash 的关键差异：完全匿名 vs 断地址关联、任意金额 vs 固定面额
+
+### Agent Memory Deck 分享
+
+1. 参加了 Agent Memory Deck 分享会 — Agent 记忆系统架构设计
+2. 理解了记忆问题的两个视角：Product View（用户连续性）vs Engineering View（生命周期管理）
+3. 掌握了三层架构：Context（模型看到什么）→ Prompt（如何提问）→ Harness（循环、工具与控制）
+4. 学习了记忆分类双轴：时间轴（当前上下文 vs 持久记忆）× 内容轴（情景/语义/程序记忆）
+5. 理解了记忆三操作：Write（写入）→ Retrieve（检索，关键是选择问题）→ Revise（新证据更新旧信息）
+6. 了解了记忆演变路径：便利性 → 控制层 → 基础设施（Agency 越高记忆越重要）
+7. 案例对比：ChatGPT 双层记忆（Saved Memory + Chat History）vs Claude Code 项目连续性
+8. 行业趋势：记忆正从孤立功能变成可复用的系统层
 
 ### 随堂笔记
 
