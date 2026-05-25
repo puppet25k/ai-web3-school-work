@@ -15,6 +15,13 @@ AI x Web3 School
 
 <!-- Content_START -->
 
+# 2026-05-25
+
+### 今日内容
+
+1. Railgun & Kohaku 隐私系统详解（0xMalingshu 分享）— UTXO 模型、ZK 电路、PPOI 防洗钱机制、Broadcaster + Waku 网络隐私
+2. Agent Memory Deck 分享 — Agent 记忆系统的架构设计，Product View vs Engineering View、三层架构（Context/Prompt/Harness）、时间×内容双轴分类、记忆从便利性到基础设施的演变
+
 # 2026-05-19
 
 <!-- DAILY_CHECKIN_2026-05-19_START -->
