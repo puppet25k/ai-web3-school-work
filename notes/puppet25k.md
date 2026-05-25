@@ -226,4 +226,34 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-24_END -->
 
+# 2026-05-25
+
+<!-- DAILY_CHECKIN_2026-05-25_START -->
+
+### Co-Learning — Railgun & Kohaku 隐私系统详解
+
+1. 参加了 @0xMalingshu 的 Co-Learning 分享（冬天の馬鈴薯🥔，Co-CTO @Zzyzx_labs）
+2. 理解了以太坊三大隐私痛点：交易透明、RPC 中心化暴露 IP、代币发现泄露数据
+3. 学习了 **Kohaku** — 隐私工具箱，把 Railgun 4 步流程封装成一行 `transfer`
+4. 学习了 **Railgun** 的核心运作机制：
+   - UTXO 模型替代 Account 模型实现完全匿名
+   - 0zk 地址 = Spending Key（控制权）+ Viewing Key（观察权）
+   - Broadcaster + Waku 隐藏 IP 地址（P2P 路由类似 Tor）
+5. 掌握了 **PPOI（清白证明）** — ZK 证明资金来源干净，1 小时观察期 + 证明随币流动
+6. 了解了 RAIL 治理代币的质押收益和治理流程
+7. 理解了 Railgun vs Tornado Cash 的关键差异：完全匿名 vs 断地址关联、任意金额 vs 固定面额
+
+### 随堂笔记
+
+> Railgun 让我们在区块链上把「衣服」穿回去，拿回自由和权利。
+> PPOI 告诉世界：合规与隐私并不冲突。
+
+### 下一步工作
+
+1. 继续 Handbook Web3 基础学习 — 下一站 **钱包（Wallet）**
+2. 跟进 Week 2 AI×Web3 交叉实践课程
+3. 开始动手实操钱包和链上交互
+
+<!-- DAILY_CHECKIN_2026-05-25_END -->
+
 <!-- Content_END -->
