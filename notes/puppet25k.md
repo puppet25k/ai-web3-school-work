@@ -267,4 +267,32 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-25_END -->
 
+# 2026-05-26
+
+<!-- DAILY_CHECKIN_2026-05-26_START -->
+
+### Cobo Agentic Wallet 分享
+
+1. 参加了 Cobo Agentic Wallet 分享会 — AI Agent 链上安全架构
+2. 理解了当前 Agent 管钱的三大风险：静默篡改、越界创建钱包、无终止开关
+3. 学习了范式转变：从 Copilot（AI建议+人类批准）到 Agent（结构化授权+执行绑定）
+4. 掌握了 Cobo Agentic Wallet 三大首创：
+   - MPC for AI Agents：私钥拆分（用户+Agent+Cobo三方，2/2门限签名）
+   - Pact 授权协议：Intent → Plan → Guardrails → Expiry 四要素
+   - Recipe 技能层：预定义验证工作流（Uniswap V3 Swap、X402 Payment 等）
+5. 核心认知：语言无法强制权限，信任应从软件承诺转移到密码学保证
+6. 理解了"Don't give agents wallets. Give agents scoped authorization."
+
+### 随堂笔记
+
+> 不要把钱包给 Agent，要给 Agent 受约束的授权，并且让执行绑定在授权上。
+
+### 下一步工作
+
+1. 继续 Handbook Web3 基础学习 — 下一站 **钱包（Wallet）**
+2. 跟进 Week 2 AI×Web3 交叉实践课程
+3. 开始动手实操钱包和链上交互
+
+<!-- DAILY_CHECKIN_2026-05-26_END -->
+
 <!-- Content_END -->
