@@ -307,7 +307,7 @@ AI x Web3 School
 4. 区分了 Optimistic Rollup（欺诈证明）vs ZK Rollup（零知识证明）
 5. 了解了 EIP-1559 Gas 销毁机制和轻节点概念
 
-### Co-Learning — Neo-Cypherpunk & Privacy
+### 分享会 — Neo-Cypherpunk & Privacy
 
 1. 参加了 Peter Farbey（@0xfar, Web3Privacy Now）的 Neo-Cypherpunk 分享
 2. 理解了 Neo-Cypherpunk = privacy × empathy × collaboration
