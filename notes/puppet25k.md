@@ -295,4 +295,38 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-26_END -->
 
+# 2026-05-27
+
+<!-- DAILY_CHECKIN_2026-05-27_START -->
+
+### Co-Learning — 021 学习以太坊
+
+1. 参加了 Ethane（XiaoHai67890）的《021学习以太坊》分享
+2. 理解了 L1 基础层（最终结算与安全）vs L2 扩容层（Rollups/State Channels/Sidechains）
+3. 学习了 Blob 数据（Dencun 升级）：挂车比喻，L2 成本下降 90-99%
+4. 区分了 Optimistic Rollup（欺诈证明）vs ZK Rollup（零知识证明）
+5. 了解了 EIP-1559 Gas 销毁机制和轻节点概念
+
+### Co-Learning — Neo-Cypherpunk & Privacy
+
+1. 参加了 Peter Farbey（@0xfar, Web3Privacy Now）的 Neo-Cypherpunk 分享
+2. 理解了 Neo-Cypherpunk = privacy × empathy × collaboration
+3. 学习了 Cypherpunk 历史脉络：1993 宣言 → 2024 Ethereum Cypherpunk Turn
+4. 掌握了个人隐私实践栈：Signal / VPN / GrapheneOS / Firefox / Railgun 等
+5. 区分了 Old School（专家/阴郁）vs Neo（人人参与/积极正向）
+
+### 随堂笔记
+
+> Transparency for the powerful, anonymity for the powerless. — 1993 Cypherpunk Manifesto
+
+> Neo = privacy + play + care + community. Privacy isn't isolation.
+
+### 下一步工作
+
+1. 继续 Handbook Web3 基础学习 — 下一站 **钱包（Wallet）**
+2. 尝试部署个人隐私工具栈（Signal + 浏览器替换 + VPN）
+3. 探索 Railgun 等隐私工具
+
+<!-- DAILY_CHECKIN_2026-05-27_END -->
+
 <!-- Content_END -->
