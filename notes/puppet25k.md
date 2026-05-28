@@ -329,4 +329,21 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-27_END -->
 
+# 2026-05-27（自学）
+
+<!-- DAILY_CHECKIN_2026-05-27_SELF_STUDY_START -->
+
+### Handbook — 钱包（Wallet）
+
+1. 自学了 Handbook「钱包（Wallet）」章节
+2. 理解了钱包不是"登录按钮"，而是用户意图进入链上执行前的最后一道确认界面
+3. 掌握三类钱包动作：连接钱包（低风险）→ 签名消息（中风险）→ 发送交易（高风险）
+4. 学习了 EOA（私钥控制账户）vs 智能账户的区别和优劣势
+5. 理解了助记词的安全铁律：任何网页/AI 要求输入助记词应视为危险
+6. 掌握了交易六阶段状态管理和 Explorer 查看方法
+7. 理解了 Gas 费用机制和 AI × Web3 中的钱包边界设计
+8. 学习计划进度更新：钱包 ✅ → 下一站 **智能合约（Smart Contract）** 🎯
+
+<!-- DAILY_CHECKIN_2026-05-27_SELF_STUDY_END -->
+
 <!-- Content_END -->
