@@ -329,9 +329,9 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-27_END -->
 
-# 2026-05-27（自学）
+# 2026-05-28（自学）
 
-<!-- DAILY_CHECKIN_2026-05-27_SELF_STUDY_START -->
+<!-- DAILY_CHECKIN_2026-05-28_START -->
 
 ### Handbook — 钱包（Wallet）
 
@@ -344,6 +344,6 @@ AI x Web3 School
 7. 理解了 Gas 费用机制和 AI × Web3 中的钱包边界设计
 8. 学习计划进度更新：钱包 ✅ → 下一站 **智能合约（Smart Contract）** 🎯
 
-<!-- DAILY_CHECKIN_2026-05-27_SELF_STUDY_END -->
+<!-- DAILY_CHECKIN_2026-05-28_END -->
 
 <!-- Content_END -->
