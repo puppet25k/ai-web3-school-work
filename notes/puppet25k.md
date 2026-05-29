@@ -363,17 +363,34 @@ AI x Web3 School
 
 ### Dev3pack Builder 成长路径分享
 
-1. 参加了 Dev3pack 分享会 — 关于如何进入 Web3 生态的 Builder 成长路径
-2. 核心认知："Learning and building is not enough. Network is everything."
-3. 学习了 Builder Journey 五阶段：Learner → Contributor → Builder → Founder → Senior
-4. 掌握了 12 条实操建议：学英语、运营 X、融入社区、开源贡献、成为 Speaker、回馈社区等
-5. 了解了 Dev3pack（Global AI & Web3 Fellowship）的四步流程：Learn → Build → Accelerate → Connect
+1. 参加了 Dev3pack 创始人的 Week 2 周例会学员分享
+2. 核心认知："人脉比技术更重要" — 你的经历和人脉网络永远不会被颠覆
+3. 学习了 Builder 成长五阶段：入门 → 学习 → 贡献 → 构建者 → 进阶
+4. 掌握了 10 条搭建人脉的实操建议
+5. 成功案例：Diana（被裁→WalletConnect主管）、Sebastian（无电脑→创业）
+6. 最后提醒：得到帮助后一定要回馈社区
+
+### 黑客松讨论：Agent Auto Top-up 支付方案
+
+1. 讨论了基于 Pact 思路的 Agent 支付方案
+2. 推荐方向：Agent Auto Top-up with Spending Guardrails（带资金护栏的自动充值工具）
+3. 核心不是"Agent 会付款"，而是"Agent 只能在被允许的范围内付款"
+4. x402 解决"怎么付"，CAW/Pact 解决"该不该付、最多能付多少"
+5. 所有操作需留链：request → pact → payment → delivery 可回查可仲裁
+
+### Harness 实操演示（learn-claude-code）
+
+1. 理解了核心概念：Agency comes from the model. Agent = Model + Harness
+2. So1 - Agent Loop：输入→AI思考→执行→检查→完成的核心循环
+3. So2 - Tool Use：在 Agent Loop 基础上加专用工具（read_file 等）
+4. 演示了 AI 自动修复错误的能力（python→python3）
+5. 支持多模型切换（Anthropic / MiniMax / GLM / Kimi / DeepSeek）
 
 ### 随堂笔记
 
 > We bet on people first, not on projects.
 
-> Learning + Building + Network + Giving Back = Web3 Builder 的完整闭环。
+> Agent 未来的可信度，不只来自模型能力，而来自权限边界、审计能力、撤销机制和异常拦截能力。
 
 ### 下一步工作
 
