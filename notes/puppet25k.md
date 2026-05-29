@@ -357,4 +357,30 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-28_END -->
 
+# 2026-05-29
+
+<!-- DAILY_CHECKIN_2026-05-29_START -->
+
+### Dev3pack Builder 成长路径分享
+
+1. 参加了 Dev3pack 分享会 — 关于如何进入 Web3 生态的 Builder 成长路径
+2. 核心认知："Learning and building is not enough. Network is everything."
+3. 学习了 Builder Journey 五阶段：Learner → Contributor → Builder → Founder → Senior
+4. 掌握了 12 条实操建议：学英语、运营 X、融入社区、开源贡献、成为 Speaker、回馈社区等
+5. 了解了 Dev3pack（Global AI & Web3 Fellowship）的四步流程：Learn → Build → Accelerate → Connect
+
+### 随堂笔记
+
+> We bet on people first, not on projects.
+
+> Learning + Building + Network + Giving Back = Web3 Builder 的完整闭环。
+
+### 下一步工作
+
+1. 继续 Handbook Web3 基础学习 — 下一站 **智能合约（Smart Contract）**
+2. 实践 Dev3pack 建议：优化 X 账号、参与开源贡献
+3. 关注 Dev3pack 的 Fellowship 和 Hackathon 机会
+
+<!-- DAILY_CHECKIN_2026-05-29_END -->
+
 <!-- Content_END -->
