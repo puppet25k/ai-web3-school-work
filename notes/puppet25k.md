@@ -418,6 +418,18 @@ AI x Web3 School
 6. 理解了 AI x Web3 中的分层设计：AI 做建议，钱包做授权，合约做执行
 7. 学习计划进度更新：智能合约 ✅ → 下一站 **Account Abstraction（AA）** 🎯
 
+### 随堂笔记
+
+> 合约的公开性带来了可组合性，也带来了攻击面。你写的不是普通函数，而是会管理真实资产和公共状态的程序。
+
+> ABI 是机器可读接口，不是安全说明书。
+
+### 下一步工作
+
+1. 继续 Handbook Web3 基础学习 — 下一站 **Account Abstraction（AA）**
+2. 在区块浏览器里找一个简单 ERC-20 合约，实践查看源码、ABI 和事件
+3. 学习 Solidity 基础语法
+
 <!-- DAILY_CHECKIN_2026-05-30_END -->
 
 <!-- Content_END -->
