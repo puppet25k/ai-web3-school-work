@@ -400,4 +400,24 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-29_END -->
 
+# 2026-05-30（自学）
+
+<!-- DAILY_CHECKIN_2026-05-30_START -->
+
+### Handbook — 智能合约（Smart Contract）
+
+1. 自学了 Handbook「智能合约（Smart Contract）」章节
+2. 用对照学习法理解核心概念：
+   - **Contract ≈ 会话 + Java Class**：状态公开 vs 封装、调用需 gas vs 无成本、部署后不可变 vs 可随意修改
+   - **Gas ≈ 内存/CPU 开销**：每条指令要花钱，storage 贵 memory 便宜
+   - **ABI ≈ API**：机器可读接口，但不是安全说明书
+   - **Event ≈ Log**：合约不可读 event，但外部可索引；成本低于 storage
+3. 理解了合约的公开性带来可组合性也带来攻击面
+4. 学习了 EVM 执行环境、Solidity 特有概念和合约升级风险
+5. 掌握了完整调用链路：用户→钱包确认→EVM 执行→event→前端→索引器
+6. 理解了 AI x Web3 中的分层设计：AI 做建议，钱包做授权，合约做执行
+7. 学习计划进度更新：智能合约 ✅ → 下一站 **Account Abstraction（AA）** 🎯
+
+<!-- DAILY_CHECKIN_2026-05-30_END -->
+
 <!-- Content_END -->

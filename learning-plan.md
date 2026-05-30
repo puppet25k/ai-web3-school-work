@@ -21,7 +21,7 @@
     21|| 5/20 | 网络（Network） | 读 Handbook → Network | + 搭 RPC 节点 | 分析 Etherscan 区块 |
     22|| 5/21 | 密码学（Cryptography） | ✅ 已完成 | + 用 ethers.js 签名 | 写签名/验签脚本 |
     23|| 5/22 | 钱包（Wallet） | ✅ 已完成 | + 创建测试钱包 | 做一笔测试交易 |
-    24|| 5/23 | 智能合约（Smart Contract） | 读 Handbook → Smart Contract | + 用 Remix 部署 | 写一个简单合约 |
+    24|| 5/23 | 智能合约（Smart Contract） | ✅ 已完成 | + 用 Remix 部署 | 写一个简单合约 |
     25|| 5/24 | Account Abstraction | 读 Handbook → AA | + 对比 EOA vs CA | + 了解 ERC-4337 |
     26|| 5/25 | 复习 + 实践 | 整理笔记到 repo | + 完成模块 B 任务 | 画知识图谱 |
     27|
