@@ -464,4 +464,33 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-05-31_END -->
 
+# 2026-06-01
+
+<!-- DAILY_CHECKIN_2026-06-01_START -->
+
+### Co-Learning | 任务推进与答疑
+
+1. 参加了 19:00 的 Co-Learning 答疑交流
+
+### Week 3 分享会 — 从 VC 角度如何更好打磨项目
+
+1. 参加了 Tracy Shi（Waterdrip Capital Managing Partner）的分享会
+2. 理解了当前 VC 投资趋势：AI 创业进入第二阶段，从"讲故事"进入"看落地"
+3. 资本更加关注 PMF、留存、CAC、商业化
+4. 掌握了 VC 核心四问：增长潜力、盈利能力、护城河、回报
+5. 学习了 VC 融资前必须回答的四个问题：落地、用户数、商业闭环、获客
+6. 理解了加分项：创始人连接能力、个人魅力和行业影响力
+7. 了解了创始人的普遍迷思
+
+### 随堂笔记
+
+> AI 创业进入第二阶段：从讲故事进入看落地。VC 不再为故事买单。
+
+### 下一步工作
+
+1. 继续 Handbook Web3 基础学习 — 下一站 **Account Abstraction（AA）**
+2. 结合 VC 视角审视 Hackathon 项目方向
+
+<!-- DAILY_CHECKIN_2026-06-01_END -->
+
 <!-- Content_END -->
