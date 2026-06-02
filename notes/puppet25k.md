@@ -493,4 +493,32 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-01_END -->
 
+# 2026-06-02
+
+<!-- DAILY_CHECKIN_2026-06-02_START -->
+
+### Week 3 分享会 — Z.ai GLM-5.1: 8 Hour Autonomy
+
+1. 参加了 Z.ai（智谱 AI）Cara 的分享会
+2. 了解了 Z.ai 生态演进：GLM-130B → ChatGLM → GLM-4 → GLM-5 → GLM-5.1（MIT 开源权重）
+3. 理解了 **8 Hour Autonomy 的核心概念**：不是时长，而是深度（Depth）— 进入实验循环、数百轮迭代、数千次工具调用
+4. 学习了 Demo：8 小时 Linux 桌面构建，1200 步自主完成
+5. 掌握了 GLM 的技术路线：交错思考、DSA 注意力分配、保留思考
+6. 理解了深度的取舍：1M token 召回从 78%→32%，但 Agentic Coding 显著提升
+7. 关注到定价优势：$3/MTok vs Claude Opus $25/MTok（8.3×）
+8. 记住了 Hackathon 实用建议：目标漂移 / 错误累积 / 策略僵化的对策
+
+### 随堂笔记
+
+> 8 Hours = Depth, not time length. — 进入实验循环，而不是往前冲。
+
+> 三个习惯会让所有模型在长任务上更好：明确检查清单、要求自测、卡住时打断转向。
+
+### 下一步工作
+
+1. 继续 Handbook Web3 基础学习 — 下一站 **Account Abstraction（AA）**
+2. 关注 GLM-5.1 的本地部署可能性（MIT 权重 + 低成本）
+
+<!-- DAILY_CHECKIN_2026-06-02_END -->
+
 <!-- Content_END -->
