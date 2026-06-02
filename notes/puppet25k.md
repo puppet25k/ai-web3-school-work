@@ -508,6 +508,17 @@ AI x Web3 School
 7. 关注到定价优势：$3/MTok vs Claude Opus $25/MTok（8.3×）
 8. 记住了 Hackathon 实用建议：目标漂移 / 错误累积 / 策略僵化的对策
 
+### Hackathon Openday
+
+1. 参加了 20:00 的 Hackathon Openday（LXDAO / ETHPanda 主办）
+2. 了解了两个赛道细则：
+   - **Cobo 赛道（3500U）**：Agentic Economy × Cobo Agentic Wallet
+   - **Z.AI 赛道（3500U）**：Web3 × Long-Horizon Task（GLM-5.1 驱动）
+3. 掌握了评分五维度：创新性 / 技术实现 / 用户体验 / 生态影响 / 演示质量（各10分）
+4. 了解了 Z.AI API 报销政策：Lite Plan $18/月赛后实报实销
+5. 记住了提交方式：6月13日12:00前通过 GitHub Issues 提交，项目必须开源
+6. 关注到 Cobo Discord 答疑：https://discord.gg/hJ6wPunpQ
+
 ### 随堂笔记
 
 > 8 Hours = Depth, not time length. — 进入实验循环，而不是往前冲。
