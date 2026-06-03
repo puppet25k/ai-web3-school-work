@@ -1,12 +1,11 @@
 # Joye Huang: Agent Engineer 成长路径与 Co-Learning 分享
 
-**日期：** 2026-06-03
-**分享人：** Joye Huang（黄得守）
-**来源：** Co-Learning 分享会
+**文档作者：** Joye Huang（黄得守）
+**分享来源：** Co-Learning 分享会
 
 ---
 
-## 分享人背景
+## 文档作者背景
 
 - **身份：** 墨尔本大学本科（Computing & Software Systems），大三
 - **公司：** Tezign（特赞）上海，AIGC R&D 团队，构建 atypica.ai 多智能体商业调研系统
