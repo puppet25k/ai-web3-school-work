@@ -534,13 +534,15 @@ AI x Web3 School
 
 ### 2026-06-03 周三
 
-晚间 Co-Learning：Joye Huang（黄得守）分享 Agent Engineer 成长路径。墨尔本大学本科、Tezign AIGC 全栈实习，构建 atypica.ai 多智能体系统。核心收获：Agent 入行重项目深度 > 八股文；OpenHarness 是理解 Coding Agent 架构的最佳入口；记忆系统不依赖复杂基础设施（Hermes FTS5 方案）；面试是双向选择，早投递早校准。参考资料：minimind-notes（⭐122）、Learn-Open-Harness、joyehuang.me 博客 12 篇 Agent 文章。
+晚间两场 Co-Learning：① Joye Huang 分享 Agent Engineer 成长路径（墨尔本大学/Tezign AIGC/atypica.ai）；② Moon 分享 Cobo Agentic Wallet 开发者教程（Skills/CLI/API/Pact 权限系统）。核心收获：Agent 入行重项目深度 > 八股文；CAW 是黑客松 Cobo 赛道基础设施（3500U），Pact 系统让 Agent 在规则内自主交易 + 人类审批兜底。参考资料：minimind-notes（⭐122）、Learn-Open-Harness、cobo-agentic-wallet-dev Skills。
 
 ### 随堂笔记
 
 > Agent 面试考察优先级：个人项目深度 > 系统理解（Agent Loop/Tool Registry/Permission）> 基础知识（RAG/Prompt Engineering）> 八股文背诵。
 
 > Harness = Tools + Knowledge + Observation + Action + Permissions。从 OpenHarness 12 章足以理解 Claude Code / Cursor 架构。
+
+> CAW 四层接入：Skills（推荐）→ MCP → CLI → API。Pact 策略 = 链白名单 + 合约白名单 + 频率限制 + always_review。每个 Pact 独立 API Key，最小权限原则。
 
 <!-- DAILY_CHECKIN_2026-06-03_END -->
 
