@@ -115,7 +115,47 @@
 
 ---
 
-## 六、Hackathon 实用信息
+## 六、技术方案参考
+
+### Cobo 赛道方向示例
+
+| 方向 | 核心思路 | 技术要点 |
+|------|----------|----------|
+| **Agent-Native Payments** | Agent 自主发起/接收链上支付 | CAW Skills 接入 → Pact 定义支付策略 → 自动执行 |
+| **Trustless Agent Work Agreements** | 智能合约锁定资金，Agent 完成任务后释放 | 合约条件 + CAW 签名 + 链上验证 |
+| **Agent Resource Procurement** | Agent 自主采购链上资源（Gas/存储/算力） | CAW 多链支持 + Pact 预算限制 |
+| **Autonomous Trading** | Agent 自主执行 DeFi 交易策略 | Uniswap V3 Swap Recipe + 频率/金额策略限制 |
+| **A2A Economy** | Agent 之间直接结算服务费/分成 | 多重 Pact + 链上对账 |
+
+### Z.AI 赛道方向示例
+
+| 方向 | 核心思路 | GLM-5.1 能力利用 |
+|------|----------|------------------|
+| **Agentic Dev Tools for Web3** | Agent 自主分析合约、生成部署脚本 | 长程任务拆解 + 多步执行 + 错误自愈 |
+| **AI-Powered 3D World Builder** | 自然语言描述 → 3D 场景/资产生成 | 多步推理 + 工具链编排 |
+| **AI × Creator Economy** | Agent 辅助 NFT/内容创作全流程 | 需求→生成→发布 完整工作流 |
+
+### 示例提交参考
+
+**0xScribe — "链上判官"**
+- 基于 Spoons 的 AI 链上行为分析工具
+- 自动检测异常交易、恶意合约、钓鱼地址
+- 输出风险评级报告
+
+### 技术方案通用检查清单
+
+```
+□ 是否使用了对应赛道的核心基础设施？（CAW / GLM-5.1）
+□ 是否体现了 Agent 的自主执行能力，而非纯概念/Mockup？
+□ 是否有清晰的价值闭环？（谁用、解决什么、怎么赚钱）
+□ Pact 策略是否合理？（Cobo 赛道必备）
+□ 项目是否开源？
+□ 是否准备好 5 分钟 Demo 演示？
+```
+
+---
+
+## 七、Hackathon 实用信息
 
 ### 日程结构
 

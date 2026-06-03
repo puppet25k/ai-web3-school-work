@@ -518,6 +518,7 @@ AI x Web3 School
 4. 了解了 Z.AI API 报销政策：Lite Plan $18/月赛后实报实销
 5. 记住了提交方式：6月13日12:00前通过 GitHub Issues 提交，项目必须开源
 6. 关注到 Cobo Discord 答疑：https://discord.gg/hJ6wPunpQ
+7. 补充整理技术方案参考（见笔记补充）：Cobo 赛道 5 个方向 + Z.AI 赛道 3 个方向 + 通用检查清单
 
 ### 随堂笔记
 
