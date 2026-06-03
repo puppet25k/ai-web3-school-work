@@ -532,4 +532,16 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-02_END -->
 
+### 2026-06-03 周三
+
+晚间 Co-Learning：Joye Huang（黄得守）分享 Agent Engineer 成长路径。墨尔本大学本科、Tezign AIGC 全栈实习，构建 atypica.ai 多智能体系统。核心收获：Agent 入行重项目深度 > 八股文；OpenHarness 是理解 Coding Agent 架构的最佳入口；记忆系统不依赖复杂基础设施（Hermes FTS5 方案）；面试是双向选择，早投递早校准。参考资料：minimind-notes（⭐122）、Learn-Open-Harness、joyehuang.me 博客 12 篇 Agent 文章。
+
+### 随堂笔记
+
+> Agent 面试考察优先级：个人项目深度 > 系统理解（Agent Loop/Tool Registry/Permission）> 基础知识（RAG/Prompt Engineering）> 八股文背诵。
+
+> Harness = Tools + Knowledge + Observation + Action + Permissions。从 OpenHarness 12 章足以理解 Claude Code / Cursor 架构。
+
+<!-- DAILY_CHECKIN_2026-06-03_END -->
+
 <!-- Content_END -->
