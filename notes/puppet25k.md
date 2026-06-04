@@ -558,4 +558,16 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-03_END -->
 
+### 2026-06-04 周四
+
+晚间分享会 — Skyl 主讲的 **Harness Engineering for Financial Intelligence**，介绍 FluxA（前阿里/蚂蚁高管创立）AI 原生支付基础设施。核心概念：Financial Harness = Intent-based Constraints + Spending Validation Loop（结算前验证）。与百度智能云合作 DAO（Daily Active Agents）经济——90K+ Agent 钱包、10K+ 资源货币化。FluxA 四大场景：A2A / A2Merchant / A2Tool / Transfers&Tipping。
+
+### 随堂笔记
+
+> Intent = user-authorized task or goal that every downstream transaction must adhere to. The authorization object is the task itself, not any individual payment.
+
+> In finance, the "mistake" may have already settled. A wire transfer cannot be rescinded. The financial harness needs validation that operates before settlement.
+
+<!-- DAILY_CHECKIN_2026-06-04_END -->
+
 <!-- Content_END -->
