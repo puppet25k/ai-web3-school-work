@@ -558,15 +558,32 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-03_END -->
 
-### 2026-06-04 周四
+# 2026-06-04 周四
 
-晚间分享会 — Skyl 主讲的 **Harness Engineering for Financial Intelligence**，介绍 FluxA（前阿里/蚂蚁高管创立）AI 原生支付基础设施。核心概念：Financial Harness = Intent-based Constraints + Spending Validation Loop（结算前验证）。与百度智能云合作 DAO（Daily Active Agents）经济——90K+ Agent 钱包、10K+ 资源货币化。FluxA 四大场景：A2A / A2Merchant / A2Tool / Transfers&Tipping。
+<!-- DAILY_CHECKIN_2026-06-04_START -->
+## 分享会 - Harness Engineering for Financial Intelligence
+- 主讲人 Skyl，FluxA 的 AI 原生支付基础设施
+	- 前阿里巴巴 & 蚂蚁集团高管创立
+- 核心问题：Agent 需要钱包，但现有金融基础设施并未为 AI Agent 设计
+- **Financial Harness** = Intent-based Constraints + Spending Validation Loop
+	- Intent：用户授权的是任务本身，而非逐笔支付
+	- 编程反馈闭环（Write→Build→Test→Fix）在金融领域因"结算后不可撤回"而失效
+	- Spending Validation 必须在结算前完成
+- 规则过滤：黑名单类目、偏离授权范围、重复交易检测
 
-### 随堂笔记
+## FluxA - AI 原生支付基础设施
+- 四大场景：Agent-to-Agent / Agent-to-Merchant / Agent-to-Tool / Transfers & Tipping
+- 与百度智能云合作 DAO（Daily Active Agents）经济
+	- 90K+ Agent 钱包，10K+ 资源已货币化
+	- 闭环管道：百度市场 → 资产发行 → FluxA 全球分发 & A2A 支付 → 交易 → 自动结算 → 跨境
+
+## 随堂笔记
 
 > Intent = user-authorized task or goal that every downstream transaction must adhere to. The authorization object is the task itself, not any individual payment.
 
 > In finance, the "mistake" may have already settled. A wire transfer cannot be rescinded. The financial harness needs validation that operates before settlement.
+
+> AI agents as first-class economic citizens.
 
 <!-- DAILY_CHECKIN_2026-06-04_END -->
 
