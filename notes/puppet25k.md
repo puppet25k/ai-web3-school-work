@@ -587,4 +587,35 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-04_END -->
 
+# 2026-06-05 周五
+
+<!-- DAILY_CHECKIN_2026-06-05_START -->
+## 分享会 - AI Agent 时代，重新审视区块链这项技术选择 + Conflux 实战
+- 主讲人 FuSheng（树哥）
+- 核心论点：AI Agent 正在移动 Web3 选型的临界点
+	- 基础设施（L2、新 L1、Conflux 3.0）降低成本
+	- Agentic 场景产生更多跨系统/跨主体任务，增加区块链收益
+- 用不用区块链 = 是否需要共享、可验证的状态和规则
+- 复杂性分层：Agent 做附属复杂性，开发者保留判断（本质复杂性）
+
+## Conflux 链上投票 Demo 开发流程
+- 5 步流程：确认需求 → 实现 → 调试 → 部署 → 合约升级
+- 需求阶段：Agent 辅助追问信任边界、投票规则、状态归属、异常路径
+- 实现阶段：Ralph loop / Codex 目标模式，Agent 自主执行 + 交付前 self-review
+- 底层链：Conflux Layer 1（树图共识，2020 年主网上线）
+
+## 随堂笔记
+
+> 用不用区块链，是系统能力选择。重点不是谁更先进，而是场景是否需要共享、可验证的状态和规则。
+
+> 高度依赖资深经验的部分，正在被工具化、流程化。开发者保留判断，Agent 帮助展开判断，把工程工作推进到可验证结果。
+
+> AI Agent 正在移动 Web3 选型的临界点——过去算不过账的中间地带应用，现在有了新的 ROI。
+
+## 下一步工作
+1. 结合 Cobo CAW + Conflux 思考黑客松方案
+2. 继续 Handbook Web3 基础学习 — Account Abstraction（AA）
+
+<!-- DAILY_CHECKIN_2026-06-05_END -->
+
 <!-- Content_END -->
