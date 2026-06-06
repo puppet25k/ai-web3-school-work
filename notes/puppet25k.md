@@ -618,4 +618,29 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-05_END -->
 
+# 2026-06-06 周六
+
+<!-- DAILY_CHECKIN_2026-06-06_START -->
+## Handbook 学习 - AI 基础篇
+- 阅读 Prompt / Context / RAG 三个章节
+- Prompt：指令分层、结构化输出、Prompt Injection 防护
+- Context：上下文工程设计、Memory 与 Knowledge Base 的分层治理
+- RAG：Chunking → Vector DB → Retriever → Rerank → Citation 证据链
+
+## 对 RAG 的理解
+- Chunking 是 Vector DB 的前置处理，决定检索质量
+- Retriever 根据用户问题检索 Vector DB，取回候选材料
+- Rerank 对检索结果重新排序，把最相关/最可信的内容排前面
+- Citation 通过可信信息来源验证结论正确性
+
+## 随堂笔记
+
+> Prompt 是软约束，不是安全边界。真正的边界必须由代码、权限、校验和审计来承担。
+
+> 模型只能基于它看见的上下文行动；系统必须决定什么能进上下文、带着什么身份进去、过期后怎么退出。
+
+> RAG 的可靠性取决于证据链，不取决于向量库这个名词。没有 citation 和 freshness 的 RAG，只是把幻觉从模型内部搬到了检索系统里。
+
+<!-- DAILY_CHECKIN_2026-06-06_END -->
+
 <!-- Content_END -->
