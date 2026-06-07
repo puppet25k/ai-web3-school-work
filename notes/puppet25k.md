@@ -643,4 +643,23 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-06_END -->
 
+# 2026-06-07 周日
+
+<!-- DAILY_CHECKIN_2026-06-07_START -->
+## Handbook 学习 - AI 基础篇（二）
+- 阅读 Agent / Frameworks / Vibe Coding 三个章节
+- Agent：Tool Use → Planning → State → Reflection → Multi-Agent 核心要素
+- Frameworks：LangChain / LangGraph / OpenAI Agents SDK / DSPy / Hermes / Learning Agent 对比
+- Vibe Coding：人负责方向和验收，Agent 负责生成和修改；Claude Code / Codex CLI 实践
+
+## 随堂笔记
+
+> Agent 的核心不是让模型更像人，而是让执行循环有清楚边界。工具比回答更危险。
+
+> 框架是系统边界的表达，不是智能本身。先理解工作流，再决定用不用框架。
+
+> AI Coding 的核心不是自动生成代码，而是把工程反馈循环压短。没有测试、审查和版本控制，速度只会放大混乱。
+
+<!-- DAILY_CHECKIN_2026-06-07_END -->
+
 <!-- Content_END -->
