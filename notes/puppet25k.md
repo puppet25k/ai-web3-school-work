@@ -662,4 +662,25 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-07_END -->
 
+# 2026-06-08 周一
+
+<!-- DAILY_CHECKIN_2026-06-08_START -->
+## Handbook 学习 - MCP
+- MCP 是给 AI Agent 使用的 API 标准协议
+- 类似传统 API 的抽象层，但面向大模型工具调用
+- Server：暴露 resources / tools / prompts
+- Client：连接模型和 Server，负责发现能力、调用转发、权限提示
+- 部分 MCP 就是从现有 API 封装而来
+- 对整个 Skill 系统和 LLM 对接的效率有显著提升
+
+## 随堂笔记
+
+> MCP 很类似 API，但是是给 AI Agent 使用的 API。目前有一部分 MCP 就是从 API 封装而来，对整个 Skill 系统和大模型对接的效率有显著提升。
+
+> 模型不应该直接拥有世界；它应该通过明确协议访问被授权的上下文和工具。
+
+> MCP 的关键不是"能接更多工具"，而是让工具接入变得可描述、可发现、可限制。
+
+<!-- DAILY_CHECKIN_2026-06-08_END -->
+
 <!-- Content_END -->
