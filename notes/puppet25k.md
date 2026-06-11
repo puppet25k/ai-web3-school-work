@@ -728,4 +728,25 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-10_END -->
 
+# 2026-06-11 周四
+
+<!-- DAILY_CHECKIN_2026-06-11_START -->
+## 收官分享会 - Z.AI Workshop：用 Agent Mode 发现本地商业机会
+- Roman（Z.AI/GLM）演示 Agent Mode + one Master Prompt 自动完成商业计划全流程
+- 核心：Chat Mode（一次回答）vs Agent Mode（多步骤目标执行）
+- Demo：Pattaya 空调维修服务——从调研到 Google Ads 全自动
+- 关键工具：last30days skill（多源检索+品质验证）
+- Q&A 精华：proof of work/code 防幻觉、JSON 导出续会话、模型间 fallback
+- 共学营正式收官
+
+## 随堂笔记
+
+> Agent Mode 的转变：从"辅助"到"执行"（From chat assistance to autonomous execution）。给 Agent 一个目标，它帮你一步步走完。
+
+> 要求 proof of work 和 proof of code，让 Agent 自我验证，很多时候它会发现"哦我忘了这个"然后自行修正。
+
+> 长会话丢失上下文？把整个对话导出为 JSON，在新会话中导入，让 Agent 重理解进度。
+
+<!-- DAILY_CHECKIN_2026-06-11_END -->
+
 <!-- Content_END -->
