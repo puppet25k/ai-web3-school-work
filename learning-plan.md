@@ -1,70 +1,112 @@
-     1|---
-     2|timezone: UTC+8
-     3|created: 2026-05-20
-     4|---
-     5|
-     6|# 学习计划
-     7|
-     8|> 根据 Handbook 结构和学员画像定制。每日学习路径分三个层级：
-     9|> - 🌱 **最小路径** — 再忙也做完
-    10|> - 🌿 **推荐路径** — 正常节奏
-    11|> - 🌳 **挑战路径** — 有余力时深入
-    12|
-    13|---
-    14|
-    15|## 阶段一：补齐 Web3 基础（Week 1-2）
-    16|
-    17|> Web3 新手：先建立对网络、钱包、合约的基本直觉。
-    18|
-    19|| 日期 | 主题 | 最小 | 推荐 | 挑战 |
-    20||------|------|------|------|------|
-    21|| 5/20 | 网络（Network） | 读 Handbook → Network | + 搭 RPC 节点 | 分析 Etherscan 区块 |
-    22|| 5/21 | 密码学（Cryptography） | ✅ 已完成 | + 用 ethers.js 签名 | 写签名/验签脚本 |
-    23|| 5/22 | 钱包（Wallet） | ✅ 已完成 | + 创建测试钱包 | 做一笔测试交易 |
-    24|| 5/23 | 智能合约 + 开发栈 | ✅ 已完成 | + 用 Remix 部署 | 写一个简单合约 |
-    25|| 5/24 | Account Abstraction | 读 Handbook → AA | + 对比 EOA vs CA | + 了解 ERC-4337 |
-    26|| 5/25 | 复习 + 实践 | 整理笔记到 repo | + 完成模块 B 任务 | 画知识图谱 |
-    27|
-    28|## 阶段二：AI 基础深化（并行）
-    29|
-    30|> AI 已有基础，重点补全未知的模块。
-    31|
-    32|| 主题 | 状态 | 计划 |
-    33||------|------|------|
-    34|| LLM / Prompt / Context | ✅ 已了解 | 略读 Handbook 确认 |
-    35|| RAG | 🔜 待读 | Handbook + 实验 |
-    36|| Agent | ✅ 已参加分享会 | 继续动手实践 |
-    37|| Frameworks | 🔜 待探索 | LangChain / LangGraph 对比 |
-    38|| MCP | 🔜 待读 | Handbook + 实践 |
-    39|| Evaluation / Fine-tuning / Inference | 📌 后续探索 | Week 3-4 |
-    40|
-    41|## 阶段三：AI × Web3 Bridge（Week 3-4）
-    42|
-    43|> 进入交叉区域，以原型驱动。
-    44|
-    45|1. **Chain-aware Context** — Agent 如何读取链上状态
-    46|2. **Web3 Tool Use** — Agent 调用合约/RPC/钱包工具
-    47|3. **Agent Workflow** — 自动化 vs Human-in-the-loop
-    48|4. **Agent Wallet** — Session Key、权限隔离
-    49|5. **Machine Payment** — 小额支付结算
-    50|6. **Verifiable AI** — 可验证输出
-    51|
-    52|## 阶段四：项目实践（Week 4+）
-    53|
-    54|> 选择一个前沿赛道做可展示原型。
-    55|
-    56|候选方向：
-    57|- Agent 自动支付 / 结算原型
-    58|- 钱包权限管理工具
-    59|- AI + 链上数据分析
-    60|- Hackathon 项目
-    61|
-    62|## 每周产出
-    63|
-    64|| 周次 | 产出 |
-    65||------|------|
-    66|| Week 1 | Web3 基础笔记 + 测试钱包/交易 |
-    67|| Week 2 | 最小合约 + RAG 实验 |
-    68|| Week 3 | Bridge 概念笔记 + 工具调用原型 |
-    69|| Week 4 | 项目原型 |
-    70|
+---
+timezone: UTC+8
+created: 2026-05-20
+updated: 2026-06-11
+---
+
+# 学习计划
+
+> 专注 AI 方向，Web3 仅作概念了解。Handbook AI 篇已全部完成 ✅
+
+---
+
+## 已完成：Handbook AI 篇（6/6 - 6/10）
+
+| 日期 | 模块 | 状态 |
+|------|------|:----:|
+| 6/6 | Prompt / Context / RAG | ✅ |
+| 6/7 | Agent / Frameworks / Vibe Coding | ✅ |
+| 6/8 | MCP | ✅ |
+| 6/9 | Evaluation | ✅ |
+| 6/10 | Fine-tuning | ✅ |
+
+## 已完成：共学营分享会
+
+共学营已收官，累计产出 15+ 篇分享会笔记，覆盖 Agent 成长路径、CAW 钱包、FluxA 支付、Conflux 开发、Z.AI Workshop 等主题。
+
+---
+
+## 当前阶段：AI 深化实践
+
+### 🌱 最小路径 — 每日 30 分钟
+- 读一篇感兴趣的 AI 技术文章/论文摘要
+- 整理一条知识点到 workspace-docs 知识库
+- 可选：把学到的概念用自己的话写一段理解
+
+### 🌿 推荐路径 — 每日 1-2 小时
+- **Agent 动手实验：** 在本地跑 Hermes Agent / OpenClaw，尝试接入一个真实工具（如搜索、文件读写）
+- **RAG 搭建：** 用本地文档建一个小型 RAG 系统，体验 Chunking → Retriever → Rerank → Citation 全流程
+- **MCP 探索：** 搭一个只读 MCP Server，暴露 search_docs / get_file 两个工具
+- **Prompt 工程：** 针对选定的任务写多版本 prompt，用 Eval 对比效果
+
+### 🌳 挑战路径 — 有余力时
+- 实现一个完整的 Agent 工作流：Task → Plan → Tool Call → Validate → Deliver
+- 研究 open-source Agent 框架源码（OpenHarness / LangGraph）
+- 跑一个 Fine-tuning 实验（LoRA on 开源模型）
+
+---
+
+## 可选探索方向（按兴趣选）
+
+| 方向 | 说明 | 动手建议 |
+|------|------|----------|
+| **Prompt Engineering 深入** | Structured Output、Few-shot 策略、Prompt Injection 防御 | 写一个"交易风险摘要"prompt，用 Eval 测稳定性 |
+| **RAG 实践** | Chunking 策略对比、Retriever 选型、Rerank 效果 | 用本地文档库搭建，对比纯向量 vs 混合检索 |
+| **Agent 框架对比** | LangChain / LangGraph / OpenAI SDK / Hermes | 同一个任务用不同框架实现，对比可读性/可维护性 |
+| **MCP Server 开发** | 工具协议标准化 | 写一个只读 MCP Server + 一个写入型（需权限确认） |
+| **Vibe Coding 实践** | Claude Code / Codex CLI 接入本地项目 | 完成一个最小工程闭环：任务→patch→test→review |
+| **Fine-tuning 实验** | LoRA / PEFT 微调开源模型 | 准备 50 条样本，对比 prompt vs few-shot vs SFT 效果 |
+| **Eval 体系搭建** | Golden Set + LLM-as-Judge + Regression | 为你的 Agent/RAG 系统建立可重复运行的评测 |
+
+---
+
+## 每日打卡推荐格式
+
+```
+## 今日学习 - [主题]
+- 做了什么 / 读了什么
+- 学到了什么（用自己的话总结）
+- 下一步打算
+
+## 随堂笔记
+> 一句最想记住的话
+```
+
+**打卡原则：**
+- 每天至少一条，哪怕是"今天只看了 15 分钟"
+- 用**自己的话**总结，而不是抄原文——能说清楚 = 真懂了
+- Q 的知识库（workspace-docs）和每日打卡（puppet25k.md）保持同步
+
+---
+
+## Web3 基础（轻量参考）
+
+> 仅做概念了解，不做深入学习。
+
+| 主题 | 状态 | 说明 |
+|------|:----:|------|
+| Network / 区块链基础 | ✅ 已有概念 | 不再深入 |
+| Cryptography | ✅ 已有概念 | 不再深入 |
+| Wallet | ✅ 已有概念 | 不再深入 |
+| Smart Contract | ✅ 已有概念 | 不再深入 |
+| Account Abstraction | ⏸️ 暂停 | 不感兴趣，暂停 |
+
+---
+
+## 知识库体系（workspace-docs）
+
+`04-knowledge/工科/计算机/AI/` — 已 8 篇 ✅
+
+```
+Prompt-Engineering
+Context-Engineering
+RAG
+Agent
+Frameworks
+Vibe-Coding
+MCP
+Evaluation
+Fine-Tuning  ← 新增
+```
+
+**下一步：** 实践过程中产生的实验笔记、框架对比、最佳实践，持续补充进对应文档。
