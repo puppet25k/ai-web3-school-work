@@ -749,4 +749,25 @@ AI x Web3 School
 
 <!-- DAILY_CHECKIN_2026-06-11_END -->
 
+# 2026-06-12 周五
+
+<!-- DAILY_CHECKIN_2026-06-12_START -->
+## Handbook 学习 - Inference
+- Inference 连接模型能力和产品交付——决定延迟、成本、上下文、稳定性
+- API Model：上手快、更新快，但速率限制、成本控制、版本变更仍要处理
+- Local Model：隐私可控、成本可预测，但显存、并发、量化质量都是约束
+- Quantization：FP16→INT8/INT4，在体积/速度/质量间取舍，需用自身任务测试
+- Serving：并发、队列、流式、缓存、监控、灰度——服务做不好，模型越强问题越难查
+- Handbook AI 篇全部学完：Prompt/Context/RAG/Agent/Frameworks/Vibe Coding/MCP/Evaluation/Fine-tuning/Inference ✅
+
+## 随堂笔记
+
+> 推理服务的核心不是"跑出答案"，而是在约束条件下交付可用答案。
+
+> API model 让你少管基础设施，本地模型让你多拿控制权。部署改变边界。
+
+> Serving 做不好，模型越强，线上问题越难排查。
+
+<!-- DAILY_CHECKIN_2026-06-12_END -->
+
 <!-- Content_END -->

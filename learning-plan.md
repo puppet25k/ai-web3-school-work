@@ -19,6 +19,7 @@ updated: 2026-06-11
 | 6/8 | MCP | ✅ |
 | 6/9 | Evaluation | ✅ |
 | 6/10 | Fine-tuning | ✅ |
+| 6/12 | Inference | ✅ |
 
 ## 已完成：共学营分享会
 
